@@ -60,7 +60,7 @@ export const Search = () => {
     const fetchFlights = async () => {
         try{
             const flights = await axios.post('http://localhost:5000/flight');
-            setFlights(flights.data.flights.splice(2,4));
+            setFlights(flights.data.flights.splice(2,3));
         }
         catch(eror){
             console.error('some error in fetching flights', eror);
