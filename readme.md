@@ -49,8 +49,8 @@ To run the frontend application, follow these steps:
 Here are some screenshots of the MMT Clone application for your reference:
 
 **Landing Page:**
-![MMT Clone App Landing Page](1.png)
+![MMT Clone App Landing Page](./1.png)
 
 **Search Page:**
-![MMT Clone App Search Page](2.png)
+![MMT Clone App Search Page](./2.png)
 
