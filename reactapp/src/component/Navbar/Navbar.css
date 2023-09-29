@@ -1,0 +1,26 @@
+body{
+	background-image: url("./bg.webp");
+}
+.navbar{
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+.image img{
+	/* border-style: solid; */
+	/* border-color: black; */
+	height: 36px;
+	width: 113px;
+}
+.login-btn{
+	margin-left: auto;
+}
+.login-btn button{
+	color: white;
+	    background-image: linear-gradient(93deg,#53b2fe,#065af3);
+    border: 0;
+    border-radius: 4px;
+    height: 42px;
+    margin-right: 0;
+    width: 213px;
+}
