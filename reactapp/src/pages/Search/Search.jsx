@@ -30,8 +30,12 @@ const FlightCard = ({ arrivalTime, departureTime, flightCompany, flightImgUrl, f
             <div className='flight-station' > {toStn} </div>
         </div>
 
-        <div className='flight-price' > 
+        <div className='flight-price' >
+        <span>
         ₹ {price}
+
+        </span> 
+       
         <div className='view-prices' > View Prices <img src='https://api.iconify.design/material-symbols:keyboard-arrow-down-rounded.svg?color=%23008cff' /></div>
         </div>
     </div>

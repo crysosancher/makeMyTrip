@@ -43,11 +43,11 @@ export default function Header() {
       </div>
       <div>
         <span> <HomeWorkIcon  style={{ fontSize: 30, padding: 4 }}></HomeWorkIcon> </span>
-        <span> Homestays </span>
+        <span> Home </span>
       </div>
       <div>
         <span> <HolidayVillage style={{ fontSize: 30, padding: 4 }}></HolidayVillage> </span>
-        <span> Holiday Packages </span>
+        <span> Holiday</span>
       </div>
       <div>
         <span> <TrainIcon  style={{ fontSize: 30, padding: 4 }}></TrainIcon> </span>
@@ -59,7 +59,7 @@ export default function Header() {
       </div>
       <div>
         <span> <LocalTaxiIcon  style={{ fontSize: 30, padding: 4 }}></LocalTaxiIcon> </span>
-        <span> Train </span>
+        <span> Taxis </span>
       </div>
       <div>
         <span> <CreditCardIcon  style={{ fontSize: 30, padding: 4 }}></CreditCardIcon> </span>
@@ -67,7 +67,7 @@ export default function Header() {
       </div>
       <div>
         <span> <DownhillSkiingIcon  style={{ fontSize: 30, padding: 4 }}></DownhillSkiingIcon> </span>
-        <span> Travel insurance </span>
+        <span> Travel</span>
       </div>
    </div>
 
