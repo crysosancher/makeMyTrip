@@ -50,9 +50,9 @@ Here are some screenshots of the MMT Clone application for your reference:
 
 **Landing Page:**  
 
-![MMT Clone App Landing Page](./1.jpg)  
+![MMT Clone App Landing Page](https://res.cloudinary.com/ddgbz6b9y/image/upload/v1695977346/deqnaorxmhko4bordwir.jpg)  
 
 **Search Page:**  
 
-![MMT Clone App Search Page](./2.jpg)  
+![MMT Clone App Search Page](https://res.cloudinary.com/ddgbz6b9y/image/upload/v1695977346/mr9prfgneeiahxcfkrjp.jpg)  
 
